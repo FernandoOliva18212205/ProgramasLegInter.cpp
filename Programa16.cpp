@@ -3,7 +3,9 @@ Programas Lenguajes de interfaz
 //Leal Oliva Carlos Fernando 18212205
 //Programa 16.- imprimir la tabla de multiplicar hasta 12x12 
 
-#include #include using namespace std;
+#include <iostream>
+#include <string>
+using namespace std;
 
 int main() {
 
